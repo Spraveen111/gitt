@@ -1,0 +1,102 @@
+.book_container{
+padding: 100px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 0px;
+}
+
+.BookNow_image1{
+    width: 500px;
+height: 700px;
+flex-shrink: 0;
+}
+
+.b_para1{
+    color: #000;
+font-family: Roboto;
+font-size: 32.685px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.b_para2{
+    color: #282828;
+font-family: Roboto;
+font-size: 18.677px;
+font-style: normal;
+font-weight: 400;
+line-height: 26.848px; /* 143.75% */
+letter-spacing: 0.584px;
+}
+.b_para3{
+    color: #000;
+font-family: Roboto;
+font-size: 12.84px;
+font-style: normal;
+font-weight: 500;
+line-height: 26.848px; /* 209.091% */
+letter-spacing: 0.584px;
+text-transform: uppercase;
+}
+
+.arrival{
+    color: #000;
+font-family: Roboto;
+font-size: 12.84px;
+font-style: normal;
+font-weight: 500;
+line-height: 26.848px; /* 209.091% */
+letter-spacing: 0.584px;
+text-transform: uppercase;
+}
+
+.input_container{
+    display: flex;
+    flex-direction: column;
+    border-radius: 11.673px;
+border: 0px solid #000;
+
+
+}
+.input_main_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.input_a{
+    width: 100px;
+}
+.star{
+    color: #000;
+font-family: Roboto;
+font-size: 12.84px;
+font-style: normal;
+font-weight: 500;
+line-height: 26.848px; /* 209.091% */
+letter-spacing: 0.584px;
+text-transform: uppercase;
+}
+.minus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.minus_container{
+    display: flex;
+    justify-content: space-between;
+}
+.star_container{
+    display: flex;
+    justify-content: space-between;
+}
+.ss{
+    padding-left: 2px;
+}
+.book_button{
+    border-radius: 4.669px;
+background: #000;padding: 10px;
+color: white;
+}

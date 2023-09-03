@@ -1,0 +1,25 @@
+.mainContainer{
+    display: flex;
+    list-style-type: none;
+}
+.gap_between_lists{
+    padding-left: 40px;
+}
+.navBar_Container{
+    display: flex;
+    padding-right: 20px;
+}
+
+.Navar{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.offers{
+    font-size: 15px;
+}
+.courses{
+    border-radius: 30px;
+    background-color: #F27A44;
+    
+}

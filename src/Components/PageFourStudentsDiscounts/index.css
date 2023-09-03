@@ -1,0 +1,52 @@
+.d_para1{
+    color: #1F2027;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.d_main_container{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+.span_para{
+    color: #1F2027;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.d_para2{
+    color: #1F2027;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.d_button{
+    border-radius: 30px;
+background: #F27A44;
+border-width: 0px;
+padding: 10px;
+color:white
+}
+.y{
+    display: flex;
+    justify-content: space-between;
+}
+.i1{
+    width: 500px;
+    height: 723px;
+    flex-shrink: 0;   
+}
+
+.g_r{
+display: flex;
+justify-content: flex-end;
+margin: -30px;
+}
+

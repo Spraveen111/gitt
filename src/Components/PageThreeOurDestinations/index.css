@@ -1,0 +1,57 @@
+.destinations{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+.pageThree_container{
+    padding: 100px;
+}
+.pagethree_image1{
+    height: 200px;
+    width: 180px;
+}
+.pagethree_para1{
+    color: #000;
+
+/* Headline extra bold / h4 */
+font-family: Roboto;
+font-size: 28px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.pagethree_para2{
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.carsol_container{
+    width: 200px;
+}
+.dot{
+    padding-left: 5px;
+}
+.dots_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carsol_main_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.arrow{
+    display: flex;
+    justify-content: center;
+}
